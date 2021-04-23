@@ -1,0 +1,2 @@
+python3 python_opencv_calibration.py --image_dir images/ --image_format jpg --prefix PRE --square_size 0.024 --save_file camera_logicool_c922n.yml --width 9 --height 6
+
